@@ -11,3 +11,4 @@ To run this code you need:
 
 * CUDA 2.1 or superior
 * C++ Compiler
+* Of Course, a compatible NVIDIA Graphic Card
